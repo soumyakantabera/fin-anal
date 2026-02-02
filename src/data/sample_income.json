@@ -1,0 +1,19 @@
+{
+  "annual": [
+    { "date": "2023", "revenue": 82000, "grossProfit": 42000, "ebit": 18000, "ebitda": 22000, "interestExpense": 1200, "pretaxIncome": 16800, "incomeTaxExpense": 3700, "netIncome": 13100 },
+    { "date": "2022", "revenue": 76000, "grossProfit": 39500, "ebit": 16000, "ebitda": 20500, "interestExpense": 1100, "pretaxIncome": 14900, "incomeTaxExpense": 3300, "netIncome": 11600 },
+    { "date": "2021", "revenue": 69000, "grossProfit": 36000, "ebit": 14000, "ebitda": 18500, "interestExpense": 900, "pretaxIncome": 13100, "incomeTaxExpense": 2900, "netIncome": 10200 },
+    { "date": "2020", "revenue": 62000, "grossProfit": 32000, "ebit": 11800, "ebitda": 16200, "interestExpense": 800, "pretaxIncome": 11000, "incomeTaxExpense": 2400, "netIncome": 8600 },
+    { "date": "2019", "revenue": 56000, "grossProfit": 28500, "ebit": 10100, "ebitda": 14500, "interestExpense": 750, "pretaxIncome": 9350, "incomeTaxExpense": 2100, "netIncome": 7250 }
+  ],
+  "quarterly": [
+    { "date": "2024-Q2", "revenue": 21500, "grossProfit": 11100, "ebit": 4700, "ebitda": 5700, "interestExpense": 310, "pretaxIncome": 4390, "incomeTaxExpense": 970, "netIncome": 3420 },
+    { "date": "2024-Q1", "revenue": 20200, "grossProfit": 10400, "ebit": 4400, "ebitda": 5450, "interestExpense": 300, "pretaxIncome": 4100, "incomeTaxExpense": 910, "netIncome": 3190 },
+    { "date": "2023-Q4", "revenue": 19800, "grossProfit": 10000, "ebit": 4200, "ebitda": 5200, "interestExpense": 295, "pretaxIncome": 3900, "incomeTaxExpense": 870, "netIncome": 3030 },
+    { "date": "2023-Q3", "revenue": 19600, "grossProfit": 9800, "ebit": 4100, "ebitda": 5100, "interestExpense": 290, "pretaxIncome": 3810, "incomeTaxExpense": 850, "netIncome": 2960 },
+    { "date": "2023-Q2", "revenue": 19200, "grossProfit": 9700, "ebit": 4050, "ebitda": 5000, "interestExpense": 285, "pretaxIncome": 3765, "incomeTaxExpense": 840, "netIncome": 2925 },
+    { "date": "2023-Q1", "revenue": 19000, "grossProfit": 9600, "ebit": 3950, "ebitda": 4900, "interestExpense": 280, "pretaxIncome": 3670, "incomeTaxExpense": 820, "netIncome": 2850 },
+    { "date": "2022-Q4", "revenue": 18500, "grossProfit": 9400, "ebit": 3800, "ebitda": 4700, "interestExpense": 270, "pretaxIncome": 3530, "incomeTaxExpense": 790, "netIncome": 2740 },
+    { "date": "2022-Q3", "revenue": 18000, "grossProfit": 9200, "ebit": 3700, "ebitda": 4600, "interestExpense": 265, "pretaxIncome": 3435, "incomeTaxExpense": 770, "netIncome": 2665 }
+  ]
+}
