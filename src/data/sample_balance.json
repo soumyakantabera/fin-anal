@@ -1,0 +1,19 @@
+{
+  "annual": [
+    { "date": "2023", "cash": 9800, "totalCurrentAssets": 26000, "totalAssets": 86000, "totalCurrentLiabilities": 18000, "totalLiabilities": 46000, "shortTermDebt": 4200, "longTermDebt": 18000, "totalDebt": 22200, "totalEquity": 40000, "sharesOutstanding": 1200 },
+    { "date": "2022", "cash": 9200, "totalCurrentAssets": 24000, "totalAssets": 82000, "totalCurrentLiabilities": 17000, "totalLiabilities": 44000, "shortTermDebt": 4000, "longTermDebt": 17500, "totalDebt": 21500, "totalEquity": 38000, "sharesOutstanding": 1180 },
+    { "date": "2021", "cash": 8500, "totalCurrentAssets": 22500, "totalAssets": 78000, "totalCurrentLiabilities": 16000, "totalLiabilities": 42000, "shortTermDebt": 3800, "longTermDebt": 16800, "totalDebt": 20600, "totalEquity": 36000, "sharesOutstanding": 1160 },
+    { "date": "2020", "cash": 7800, "totalCurrentAssets": 21000, "totalAssets": 74000, "totalCurrentLiabilities": 15000, "totalLiabilities": 40000, "shortTermDebt": 3600, "longTermDebt": 16000, "totalDebt": 19600, "totalEquity": 34000, "sharesOutstanding": 1140 },
+    { "date": "2019", "cash": 7200, "totalCurrentAssets": 19800, "totalAssets": 70000, "totalCurrentLiabilities": 14200, "totalLiabilities": 38000, "shortTermDebt": 3400, "longTermDebt": 15000, "totalDebt": 18400, "totalEquity": 32000, "sharesOutstanding": 1120 }
+  ],
+  "quarterly": [
+    { "date": "2024-Q2", "cash": 10100, "totalCurrentAssets": 27000, "totalAssets": 87500, "totalCurrentLiabilities": 18200, "totalLiabilities": 47000, "shortTermDebt": 4300, "longTermDebt": 18100, "totalDebt": 22400, "totalEquity": 40500, "sharesOutstanding": 1210 },
+    { "date": "2024-Q1", "cash": 9950, "totalCurrentAssets": 26500, "totalAssets": 87000, "totalCurrentLiabilities": 18100, "totalLiabilities": 46800, "shortTermDebt": 4250, "longTermDebt": 18050, "totalDebt": 22300, "totalEquity": 40200, "sharesOutstanding": 1210 },
+    { "date": "2023-Q4", "cash": 9900, "totalCurrentAssets": 26200, "totalAssets": 86500, "totalCurrentLiabilities": 18000, "totalLiabilities": 46500, "shortTermDebt": 4200, "longTermDebt": 18000, "totalDebt": 22200, "totalEquity": 40000, "sharesOutstanding": 1200 },
+    { "date": "2023-Q3", "cash": 9800, "totalCurrentAssets": 25800, "totalAssets": 86000, "totalCurrentLiabilities": 17900, "totalLiabilities": 46200, "shortTermDebt": 4180, "longTermDebt": 17900, "totalDebt": 22080, "totalEquity": 39800, "sharesOutstanding": 1200 },
+    { "date": "2023-Q2", "cash": 9700, "totalCurrentAssets": 25500, "totalAssets": 85500, "totalCurrentLiabilities": 17800, "totalLiabilities": 46000, "shortTermDebt": 4150, "longTermDebt": 17850, "totalDebt": 22000, "totalEquity": 39500, "sharesOutstanding": 1200 },
+    { "date": "2023-Q1", "cash": 9600, "totalCurrentAssets": 25200, "totalAssets": 85000, "totalCurrentLiabilities": 17700, "totalLiabilities": 45800, "shortTermDebt": 4125, "longTermDebt": 17800, "totalDebt": 21925, "totalEquity": 39200, "sharesOutstanding": 1195 },
+    { "date": "2022-Q4", "cash": 9400, "totalCurrentAssets": 24800, "totalAssets": 84000, "totalCurrentLiabilities": 17500, "totalLiabilities": 45500, "shortTermDebt": 4100, "longTermDebt": 17700, "totalDebt": 21800, "totalEquity": 38500, "sharesOutstanding": 1190 },
+    { "date": "2022-Q3", "cash": 9300, "totalCurrentAssets": 24400, "totalAssets": 83500, "totalCurrentLiabilities": 17350, "totalLiabilities": 45200, "shortTermDebt": 4050, "longTermDebt": 17650, "totalDebt": 21700, "totalEquity": 38300, "sharesOutstanding": 1185 }
+  ]
+}

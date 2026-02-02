@@ -1,0 +1,19 @@
+{
+  "annual": [
+    { "date": "2023", "operatingCashFlow": 19000, "capex": -5200, "freeCashFlow": 13800, "depreciationAmortization": 4200, "dividendsPaid": -1200 },
+    { "date": "2022", "operatingCashFlow": 17500, "capex": -4800, "freeCashFlow": 12700, "depreciationAmortization": 4000, "dividendsPaid": -1150 },
+    { "date": "2021", "operatingCashFlow": 16000, "capex": -4500, "freeCashFlow": 11500, "depreciationAmortization": 3800, "dividendsPaid": -1080 },
+    { "date": "2020", "operatingCashFlow": 14500, "capex": -4200, "freeCashFlow": 10300, "depreciationAmortization": 3600, "dividendsPaid": -1020 },
+    { "date": "2019", "operatingCashFlow": 13200, "capex": -3900, "freeCashFlow": 9300, "depreciationAmortization": 3450, "dividendsPaid": -980 }
+  ],
+  "quarterly": [
+    { "date": "2024-Q2", "operatingCashFlow": 4950, "capex": -1350, "freeCashFlow": 3600, "depreciationAmortization": 1100, "dividendsPaid": -310 },
+    { "date": "2024-Q1", "operatingCashFlow": 4820, "capex": -1320, "freeCashFlow": 3500, "depreciationAmortization": 1080, "dividendsPaid": -305 },
+    { "date": "2023-Q4", "operatingCashFlow": 4700, "capex": -1280, "freeCashFlow": 3420, "depreciationAmortization": 1050, "dividendsPaid": -300 },
+    { "date": "2023-Q3", "operatingCashFlow": 4650, "capex": -1270, "freeCashFlow": 3380, "depreciationAmortization": 1035, "dividendsPaid": -295 },
+    { "date": "2023-Q2", "operatingCashFlow": 4600, "capex": -1260, "freeCashFlow": 3340, "depreciationAmortization": 1020, "dividendsPaid": -290 },
+    { "date": "2023-Q1", "operatingCashFlow": 4500, "capex": -1240, "freeCashFlow": 3260, "depreciationAmortization": 1000, "dividendsPaid": -285 },
+    { "date": "2022-Q4", "operatingCashFlow": 4400, "capex": -1220, "freeCashFlow": 3180, "depreciationAmortization": 980, "dividendsPaid": -280 },
+    { "date": "2022-Q3", "operatingCashFlow": 4300, "capex": -1200, "freeCashFlow": 3100, "depreciationAmortization": 960, "dividendsPaid": -275 }
+  ]
+}
