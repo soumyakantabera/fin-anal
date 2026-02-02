@@ -107,7 +107,7 @@ export const SelectInput = ({ label, options, ...props }) => (
   </label>
 );
 
-export const Tooltip = ({ text }) => (
+export const InfoTooltip = ({ text }) => (
   <span className="ml-2 text-slate-400" title={text}>
     ⓘ
   </span>
