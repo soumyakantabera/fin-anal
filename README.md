@@ -24,13 +24,31 @@ npm run build
 npm run preview
 ```
 
-## GitHub Pages Deployment (Vite)
+## GitHub Pages Deployment
+
+This repository is configured for automatic deployment to GitHub Pages using GitHub Actions.
+
+### Automatic Deployment
+
+Pushes to the `main` branch automatically trigger a deployment workflow that:
+1. Builds the application with `npm run build`
+2. Deploys the `dist/` folder to GitHub Pages
+
+The workflow can also be triggered manually from the Actions tab.
+
+### Manual Deployment
+
+If you need to deploy manually:
 
 1. Build the app:
    ```bash
    npm run build
    ```
-2. Deploy the `dist/` folder to GitHub Pages. The Vite config uses `base: './'` for static hosting.
+2. The Vite config automatically uses the correct base path (`/fin-anal/`) when building in GitHub Actions, and a relative path (`./`) for local development.
+
+### Accessing the Deployed Site
+
+Once deployed, the site will be available at: `https://soumyakantabera.github.io/fin-anal/`
 
 ## Live Mode Proxy Requirements
 
