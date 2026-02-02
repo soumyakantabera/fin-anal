@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+input, select, button {
+  @apply text-slate-900;
+}
+
+.table-scroll {
+  @apply overflow-x-auto;
+}
